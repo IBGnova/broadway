@@ -41,3 +41,40 @@ nav p a {
   font-size: 32px;
   font-weight: bold;
 }
+
+.newyork-content {
+  text-align: center;
+}
+
+.newyork-content h3 {
+  text-align: center;
+  background-image: url(./images/the-flatiron-building.png);
+  background-size: cover;
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.newyork-content h4 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.footer {
+  background-color: dimgray;
+  font-family: Helvetica;
+  color: white;
+}
+
+.copyright {
+  padding-right: 8px;
+  font-size: 11px;
+}
+
+.footer-nav a {
+  color: White;
+  font-size: 16px;
+  padding-right: 5px;
+}
