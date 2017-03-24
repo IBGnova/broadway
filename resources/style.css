@@ -16,3 +16,28 @@ div nav p {
   background-image: url(./images/the-flatiron-building.png);
   background-size: cover;
 }
+
+nav p a {
+  color: White;
+}
+
+.our-process {
+  text-align: center;
+}
+
+.our-process p {
+  font-size: 14px;
+  font-family: Helvetica;
+}
+
+.our-process h4 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.our-process h3 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
